@@ -6,7 +6,7 @@
 
 ---
 
-## Запуск 
+## 🚀 Запуск 
 [speech-henna.vercel.app](https://speech-henna.vercel.app)
 
 ## 📖 О проекте
